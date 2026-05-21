@@ -1,2 +1,2 @@
 # Portfolio
-Website created following Openclassroom's classes
+Here is the website I created by following the courses on Openclassrooms
